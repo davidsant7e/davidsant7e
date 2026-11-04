@@ -9,8 +9,8 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="assets/cartas/05-el-hierofante.svg" alt="V · El Hierofante" width="140"><br>
-      <b>CodeLock</b><br>
+      <a href="https://github.com/davidsant7e/codelock-android"><img src="assets/cartas/05-el-hierofante.svg" alt="V · El Hierofante" width="140"></a><br>
+      <b><a href="https://github.com/davidsant7e/codelock-android">CodeLock</a></b><br>
       <sub>Una pregunta de programación cada vez que desbloqueas el celular.</sub><br>
       <sub><code>Android</code> · <code>Kotlin</code> · <code>Compose</code></sub>
     </td>
@@ -18,17 +18,18 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
       <img src="assets/cartas/17-la-estrella.svg" alt="XVII · La Estrella" width="140"><br>
       <b>AudioNovel</b><br>
       <sub>Traduce novelas ligeras y las convierte en audio para escucharlas en el celular.</sub><br>
-      <sub><code>Python</code> · <code>FastAPI</code> · <code>Android</code></sub>
+      <sub><code>Python</code> · <code>FastAPI</code> · <code>Android</code></sub><br>
+      <sub><i>Repositorio privado</i></sub>
     </td>
     <td align="center" width="20%">
-      <img src="assets/cartas/20-el-juicio.svg" alt="XX · El Juicio" width="140"><br>
-      <b>MicCheck</b><br>
+      <a href="https://github.com/davidsant7e/miccheck-android"><img src="assets/cartas/20-el-juicio.svg" alt="XX · El Juicio" width="140"></a><br>
+      <b><a href="https://github.com/davidsant7e/miccheck-android">MicCheck</a></b><br>
       <sub>Diagnostica el micrófono del celular y sugiere qué hacer si falla.</sub><br>
       <sub><code>Android</code> · <code>Kotlin</code> · <code>AudioRecord</code></sub>
     </td>
     <td align="center" width="20%">
-      <img src="assets/cartas/10-la-rueda.svg" alt="X · La Rueda de la Fortuna" width="140"><br>
-      <b>GirarPantalla</b><br>
+      <a href="https://github.com/davidsant7e/girar-pantalla"><img src="assets/cartas/10-la-rueda.svg" alt="X · La Rueda de la Fortuna" width="140"></a><br>
+      <b><a href="https://github.com/davidsant7e/girar-pantalla">GirarPantalla</a></b><br>
       <sub>Gira la pantalla de Windows con un atajo de teclado.</sub><br>
       <sub><code>Windows</code> · <code>PowerShell</code> · <code>C#</code></sub>
     </td>
