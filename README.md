@@ -44,7 +44,7 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
 
 ## 🛠️ Con qué trabajo
 
-`Kotlin` · `Jetpack Compose` · `Android` · `Python` · `FastAPI` · `SQLite` · `PowerShell` · `C#` · `Docker` · `Git`
+`C#` · `.NET` · `Java` · `Spring Boot` · `Kotlin` · `Jetpack Compose` · `Android` · `Python` · `FastAPI` · `SQLite` · `PowerShell` · `Docker` · `Git`
 
 ## 🔭 Ahora mismo
 
