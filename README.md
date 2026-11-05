@@ -41,6 +41,14 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
       <sub><i>En exploración</i></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/davidsant7e/sacerdotisa"><img src="assets/cartas/02-la-sacerdotisa.svg" alt="II · La Sacerdotisa" width="140"></a><br>
+      <b><a href="https://github.com/davidsant7e/sacerdotisa">La Sacerdotisa</a></b><br>
+      <sub>Corrector que explica el porqué de cada error: mayúsculas, tildes, palabras que se confunden.</sub><br>
+      <sub><code>Extensión</code> · <code>Windows</code> · <code>LanguageTool</code></sub>
+    </td>
+  </tr>
 </table>
 
 ## 🛠️ Con qué trabajo
