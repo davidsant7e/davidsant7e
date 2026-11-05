@@ -48,6 +48,12 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
       <sub>Corrector que explica el porqué de cada error: mayúsculas, tildes, palabras que se confunden.</sub><br>
       <sub><code>Extensión</code> · <code>Windows</code> · <code>LanguageTool</code></sub>
     </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/davidsant7e/justicia"><img src="assets/cartas/11-la-justicia.svg" alt="XI · La Justicia" width="140"></a><br>
+      <b><a href="https://github.com/davidsant7e/justicia">La Justicia</a></b><br>
+      <sub>Revisa lo que vas a commitear (claves, archivos sensibles, depuración) y sugiere el mensaje.</sub><br>
+      <sub><code>VS Code</code> · <code>Kiro</code> · <code>Visual Studio</code> · <code>Gemini</code></sub>
+    </td>
   </tr>
 </table>
 
