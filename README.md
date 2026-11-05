@@ -12,7 +12,8 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
       <a href="https://github.com/davidsant7e/codelock-android"><img src="assets/cartas/05-el-hierofante.svg" alt="V · El Hierofante" width="140"></a><br>
       <b><a href="https://github.com/davidsant7e/codelock-android">CodeLock</a></b><br>
       <sub>Una pregunta de programación cada vez que desbloqueas el celular.</sub><br>
-      <sub><code>Android</code> · <code>Kotlin</code> · <code>Compose</code></sub>
+      <sub><code>Android</code> · <code>Kotlin</code> · <code>Compose</code></sub><br>
+      <sub>Rama Windows: <a href="https://github.com/davidsant7e/codelock-windows">codelock-windows</a></sub>
     </td>
     <td align="center" width="20%">
       <img src="assets/cartas/17-la-estrella.svg" alt="XVII · La Estrella" width="140"><br>
@@ -49,6 +50,6 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
 ## 🔭 Ahora mismo
 
 - Aprendiendo Android con proyectos reales, del primer `Hello Android` al celular.
-- Llevando CodeLock a Windows y al reloj.
+- CodeLock ya corre en Windows; sigue el reloj.
 
 <p align="center"><sub>Ilustraciones propias en estilo duotono · azul noche <code>#1f2a5c</code> y durazno <code>#f4a582</code></sub></p>
