@@ -54,6 +54,12 @@ Soy desarrollador **backend** y estoy aprendiendo **Android**. Cada proyecto que
       <sub>Revisa lo que vas a commitear (claves, archivos sensibles, depuración) y sugiere el mensaje.</sub><br>
       <sub><code>VS Code</code> · <code>Kiro</code> · <code>Visual Studio</code> · <code>Gemini</code></sub>
     </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/davidsant7e/el-mago"><img src="assets/cartas/01-el-mago.svg" alt="I · El Mago" width="140"></a><br>
+      <b><a href="https://github.com/davidsant7e/el-mago">El Mago</a></b><br>
+      <sub>Escribe en el PC desde el celular: burbuja flotante, por el Wi-Fi de la casa.</sub><br>
+      <sub><code>Windows</code> · <code>Android</code> · <code>Kotlin</code> · <code>C#</code></sub>
+    </td>
   </tr>
 </table>
 
